@@ -4,7 +4,6 @@ import About from "./Components/About";
 import LocomotiveScroll from "locomotive-scroll";
 import Projects from "./Components/Projects";
 import Skills from "./Components/Skills";
-import Footer from "./Components/Footer";
 import Copyright from "./Components/Copyright";
 
 function App() {
