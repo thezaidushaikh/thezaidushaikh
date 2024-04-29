@@ -7,10 +7,10 @@ function Projects() {
   return (
     <>
       <div
-        className="about w-full px-20 py-10 bg-zinc-800 text-zinc-200"
+        className="about w-full px-20 py-10 bg-zinc-800 text-zinc-800"
       >
         <div className="heading">
-          <h1 className="text-3xl  max-md:text-3xl uppercase max-lg:text-center font-extrabold leading-none tracking-tighter">
+          <h1 className="text-3xl text-zinc-200  max-md:text-3xl uppercase max-lg:text-center font-extrabold leading-none tracking-tighter">
             PROJECTS
           </h1>
         </div>
@@ -36,7 +36,7 @@ function ProjectData() {
             alt=""
             className=" duration-300 hover:brightness-[0.6]"
           />
-          <div className="bg-zinc-700 w-full px-2 py-4 flex justify-between">
+          <div className="bg-zinc-200 w-full px-2 py-4 flex justify-between">
             <div className="px-4">
               <h1 className="text-2xl font-extrabold">{pdata.title}</h1>
             </div>
@@ -77,9 +77,9 @@ const projectdata = [
   },
   {
     id: 2,
-    title: "Image 2",
-    liveurl: "https://github.com/ShaikhZaidu",
-    projecturl: "https://github.com/ShaikhZaidu",
+    title: "AI Landing Page",
+    liveurl: "https://thezaidushaikh.github.io/AILandingPage.github.io/",
+    projecturl: "https://github.com/thezaidushaikh/AILandingPage.github.io",
     img: "./images/project2.png",
   },
   {

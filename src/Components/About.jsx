@@ -41,11 +41,10 @@ function About() {
               Hi, I'm <strong>Zaid Shaikh!</strong> I bring websites to life as
               a Front-end Developer. I'm passionate about crafting modern
               websites that look fantastic on any device and use cool animations
-              to engage visitors. I use languages like HTML, CSS, and JavaScript
-              to build these experiences, and popular frameworks like Tailwind
-              CSS, Bootstrap, and Framer Motion etc.. With over 2 years of
-              experience through personal and group projects. Outside of code, I
-              love exploring new places.
+              to engage visitors. I use languages and library like HTML, CSS, JavaScript
+              and React JS to build these experiences, and popular frameworks
+              like Tailwind CSS and Bootstrap. With over 2 years of experience through 
+              personal and group projects. Outside of code, I love exploring new places on Google Earth.
             </p>
           </div>
           <div className="social flex flex-row gap-2 w-full max-lg:justify-center px-5 md:px-10 py-3 md:py-5">

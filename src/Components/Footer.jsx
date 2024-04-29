@@ -4,7 +4,7 @@ function Footer() {
   return (
     <>
       <div className="footer grid grid-cols-3 max-sm:grid-cols-1 gap-4 w-full px-20 py-10 bg-zinc-800 text-zinc-200">
-        <div className="quicklinks  w-full">
+        {/* <div className="quicklinks  w-full">
           <div className="qheading">
             <h1 className="text-lg font-normal">LINKS</h1>
             <div className="links grid w-1 font-light text-zinc-300 tracking-widest">
@@ -34,7 +34,7 @@ function Footer() {
               </a>
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="slinks  w-full">
           <div className="qheading">
             <h1 className="text-lg font-normal">SOCIALS</h1>
