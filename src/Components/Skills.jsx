@@ -26,7 +26,7 @@ function SkillsData() {
           transition={{ ease: [0.5, 1, 0.89, 1], duration: 0.8 }}
           key={sdata.id}
           title={sdata.title}
-          className="skills border-[2px] border-zinc-800 duration-300 hover:bg-zinc-300 p-6 w-40 rounded-full overflow-hidden shadow-xl"
+          className="skills border-[2px] border-zinc-800 duration-300 hover:bg-zinc-300 p-6 w-40 max-sm:w-24 rounded-full overflow-hidden shadow-xl"
         >
           <img src={sdata.img} className="hover:scale-105 duration-300" />
         </motion.div>

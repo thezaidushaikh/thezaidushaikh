@@ -60,7 +60,7 @@ function About() {
           zaidus800@gmail.com
         </p>
         <p className="p-1 px-3  shadow-md border-[1px] border-zinc-800 tracking-tight rounded-full">
-          PCSIR Society Sch-33 Karachi, Pakistan
+          PCSIR Society Karachi, Pakistan
         </p>
       </div>
     </>

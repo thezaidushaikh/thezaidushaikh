@@ -77,16 +77,16 @@ const projectdata = [
   },
   {
     id: 2,
-    title: "AI Landing Page",
+    title: "AI Landing",
     liveurl: "https://thezaidushaikh.github.io/AILandingPage.github.io/",
     projecturl: "https://github.com/thezaidushaikh/AILandingPage.github.io",
     img: "./images/project2.png",
   },
   {
     id: 3,
-    title: "Image 3",
-    liveurl: "https://github.com/ShaikhZaidu",
-    projecturl: "https://github.com/ShaikhZaidu",
+    title: "Make Post",
+    liveurl: "https://thezaidushaikh.github.io/postgenerator.github.io/",
+    projecturl: "https://github.com/thezaidushaikh/postgenerator.github.io",
     img: "./images/project3.png",
   },
   {
