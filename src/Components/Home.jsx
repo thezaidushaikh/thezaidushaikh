@@ -44,11 +44,11 @@ function Home() {
               className="hirebutton flex mt-6 ml-1.5 max-sm:justify-center"
             >
               <a href="./doc/Zaid's Resume.pdf" download={"Zaid's Resume.pdf"}>
-                <div className="bg-zinc-200 text-zinc-800 rounded-full p-2 flex gap-3 items-center w-10 hover:w-32 duration-300 overflow-hidden">
+                <div className="bg-zinc-200 text-zinc-800 rounded-full p-2 flex gap-3 items-center w-10 hover:w-20 duration-300 overflow-hidden">
                   <span className="rotate-90 text-xl ml-[0.2vw] ">
                     <IoMdArrowForward />
                   </span>
-                  <h1 className="font-semibold">RESUME</h1>
+                  <h1 className="font-semibold">CV</h1>
                 </div>
               </a>
             </motion.div>
